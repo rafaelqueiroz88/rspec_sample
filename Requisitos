@@ -1,0 +1,4 @@
+Doc: https://medium.com/@mindovermiles262/getting-started-with-rspec-part-1-9418909f5e53
+
+gem install rspec
+gem install pry
